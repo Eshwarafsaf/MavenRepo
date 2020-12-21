@@ -26,7 +26,7 @@ public class Calc {
 		System.out.println(add(30, 43));
 		System.out.println(sub(30, 43));
 		System.out.println(prod(30, 43));
-		System.out.println(rem(30, 43));
+		System.out.println("REM:"+rem(30, 43));
 		System.out.println(quot(30, 43));
 	}
 }
