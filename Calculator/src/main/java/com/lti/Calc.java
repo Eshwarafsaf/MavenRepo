@@ -14,5 +14,6 @@ public class Calc {
 	public static void main(String[] args) {
 		System.out.println(add(30, 43));
 		System.out.println(sub(30, 43));
+		System.out.println(prod(30, 43));
 	}
 }
